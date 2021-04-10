@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ImreAbelvik and I am from Norway.
+- 👀 I’m interested in new and old technology, my main programming language is JavaScript but I also program in Python.
+- 🌱 I’m currently developing my skils in JavaScript, to become the very best, like no one ever was.
+- 📫 How to reach me, Abelvik23@hotmail.no
